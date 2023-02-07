@@ -1,0 +1,2 @@
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19395	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1678401464:h3:y:1675809434:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:versioncheck-bg.addons.mozilla.org:443:.::3	0	19395	https:versioncheck-bg.addons.mozilla.org:443:versioncheck-bg.addons.mozilla.org:443::n:1678401824:h3:y:1675809434:n::|n:y:

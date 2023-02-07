@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:abstract=/home/vextal/.cache/ibus/dbus-CVg6GvPY,guid=ace1c15ea64bfed8753f8aff63e2cc6f
+IBUS_DAEMON_PID=1409
