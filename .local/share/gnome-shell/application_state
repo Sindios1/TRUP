@@ -3,8 +3,8 @@
   <context id="">
     <application id="org.gnome.Nautilus.desktop" score="13" last-seen="1675809911"/>
     <application id="gnome-initial-setup.desktop" score="3" last-seen="1675807880"/>
-    <application id="firefox_firefox.desktop" score="1" last-seen="1675809443"/>
-    <application id="org.gnome.Terminal.desktop" score="220" last-seen="1675809911"/>
+    <application id="firefox_firefox.desktop" score="7" last-seen="1675810580"/>
+    <application id="org.gnome.Terminal.desktop" score="308" last-seen="1675810533"/>
     <application id="software-properties-gtk.desktop" score="2" last-seen="1675807961"/>
     <application id="org.gnome.gedit.desktop" score="34" last-seen="1675809815"/>
     <application id="gnome-control-center.desktop" score="1" last-seen="1675807908"/>
